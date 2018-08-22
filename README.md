@@ -1,2 +1,2 @@
 # nova-lang-es
-Spanish translation for Larval Nova
+Spanish translation for Laravel Nova
